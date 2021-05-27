@@ -1,2 +1,2 @@
 # JustJava
-An app thaa can be used to order coffee
+An app that can be used to order coffee
